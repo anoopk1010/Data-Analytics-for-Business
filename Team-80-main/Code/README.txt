@@ -1,0 +1,1 @@
+Run the Portfolio Optimization.ipynb to get weights for optimal portfolio. 
